@@ -1,21 +1,3 @@
-h1{
-    color: blue;
-}
-h1{
-    text-align: center;
-}
-p{
-    color: darkgrey;
-    margin: 15px;
-}
-
-ul{
-    border-style: dotted;
-}
-
-#destacado{
-    background-color: yellow;
-}
-.importante{
-    font-weight: bold;
+.carousel-item {
+    max-height: 500px;
 }
